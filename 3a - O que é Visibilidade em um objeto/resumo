@@ -1,0 +1,16 @@
+Linguagem de Modelagem Unificada - UML - Diagrama de Classes - 2:49
+Modificadores de Visibilidade - Indicam o nível de acesso aos componentes internos de uma classe
+
+'+' público - A classe atual e todas as outras classes.  
+'-' privado - Somente a classe atual
+'#' protegido - A classe atual e todas as suas sub-classes
+
+Com base nos tipos de visibilidade dos objetos nós podemos filtrar os tipos de alterações na chamada dos objetos, sendo púbico, privado e protegido. 
+
+Sintaxe no Python 
+- self.__ = Privado
+- self._  = Protegido
+
+# Aparentemente não é possível realizar alterações em ambos
+
+5:48

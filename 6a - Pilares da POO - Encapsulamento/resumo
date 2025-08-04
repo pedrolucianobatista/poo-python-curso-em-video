@@ -1,0 +1,55 @@
+# A programação orientada a objetos possui três pilares, sendo eles: Encapsulamento, Herança e Polimorfismo. EHP
+
+# Exemplo de uma pilha que de certa forma possui uma cápsula, precisamos dar ênfase na questão da proteção dos elementos internos, e padronização dos tipos de pilhas 
+
+# Encapsular: Ocultar partes independetes da implementação, permietindo contruir partes invisíveis ao mundo exterior. Essa funcionalidade nós podemos realizar um paralelo novamente com a questão da pilha, pois os usuários não sabem como funciona dentro especificamente da pilha, e nem os seus componentes internos, mesma coisa com relação a interação do código com o usuário e o programador, pois haverá uma parte do código justamente encapsulado que as pessoas não vão ter acesso. Esse contato com o encapsulamento será chamado de mensagem.
+
+# Interface: Lista de serviços fornecidos por um compontente. É o contato com o mundo exterior, que define o que pode ser feito com um objeto dessa classe. Ou seja: Irá aparecer um imagem de interação com o usuário para ele não acessar diretamente as informações internas dentro do encapsulamento
+
+# Encapsular não é obrigatório, mas é uma boa prjática para produzir Classes mais eficientes.
+
+# Vantagens da utilização do encapsulamento: 
+
+# 1 - Tornar mudanças invisíveis 
+# 2 - Facilitar reutilização do código 
+# 3 - Reduzir efeitos colaterais
+
+# Exemplo de capsulamento: 
+# Controlador (Parte da interface)
+
+# ligar()
+# desligar()
+# abrirMenu()
+# fecharMenu()
+# maisVolume()
+# menosVolume()
+# ligarMudo()
+# desligarMudo()
+# play()
+# pause()
+
+# A questão do encapsulamento será especificamente para a questão dos métodos das classes
+# Obs: Os atributos irão precisar ter o status privado ou protegido 
+
+# ControleRemoto
+# - volume 
+# - ligado 
+# - tocando 
+
+# + ligar()
+# + desligar()
+# + abrirMenu()
+# + fecharMenu()
+# + maisVolume()
+# + menosVolume()
+# + ligarMudo()
+# + desligarMudo()
+# + play()
+# + pause()
+
+# - setVolume()
+# - getVolume()
+# - setLigado()
+# - getLigado()
+# - setTocando()
+# - getTocando() 

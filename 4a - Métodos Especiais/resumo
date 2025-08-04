@@ -1,0 +1,3 @@
+- Métodos Acessores (Getters) servem para o usuário ou dev acessar atributos específicos em uma classe, eles também são chamados de Getters. Nós temos um método em específico para fazer essa consulta
+- Métodos Modificadores (Setters), como o próprio nome diz, esses métodos serão utilizados para fazer alterações em atributos. É de extrema importãncia a utilização desses métodos por questões de segurança e também organização.
+- Com o método Constructor é possível padronizar métodos específicos padrões que serão utilizados na sua classe, ou seja, uma base terá um certo padrão, mas que poderá ser instanciado e modificado dependendo da especificação do objeto

@@ -1,0 +1,20 @@
+# Julibeu - Conta poupança, depositou R$300,00
+# Creuza - Canta corrente, depositou R$500,00 - saque de R$100,00 sapato
+# Lembrar de fazer os getters e setters para todos os atributos 
+
+# Atributos: numConta, tipo (cc / cp), dono, saldo, status (conta aberta ou não)
+# Métodos: abrirConta(), fecharConta(), depositar(), sacar(), pagarMensal()
+
+# O padrão do status será False, pois ainda não foi criada uma conta    
+# Cc = R$50,00 - Cp = 150,00
+# Observação: Para fechar a conta o usuário não pode ter pendências, e nem saldo
+# Para o depósito, será necessário que a conta esteja aberta 
+# Para o saque, será necessário que a conta esteja aberta, e que tenha dim dim suficiente 
+
+# A mensalidade da conta corrente é igual a R$12,00
+# A mensalidade da conta poupança é igual a R$20,00
+
+# numConta = público ; tipo = protegido ; dono = privado ; saldo = privado ; status = privado 
+# E todos os métodos serão públicos. 
+
+# No método construtor, o padrão será conta fechada, e saldo igual a zero

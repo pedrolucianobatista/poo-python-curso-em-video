@@ -1,0 +1,19 @@
+Objetivo: Aproximar o mundo digital do mundo real 
+
+* Programação baixo nível; programa linear; programação estruturada; programação modular; Poo - Alan Kay 
+
+Dados Globais: Procedimento / Procedimento / Procedimento 
+Dados de Objetos: Método / Método. 
+Linguagens POO: C++, Java, PHP, Python, Ruby, Visual Basic 
+
+* Vantagens da utilização: 
+- Confiável: O isolamento entre as partes gera software seguro. Ao alterar uma parte, nenhuma outra é afetada. 
+- Oportuno: Ao dividir tudo em partes, várias delas podem ser desenvolvidas em paralelo 
+- Manutenível: Atualizar um software é mais fácil. Uma pequena modificação vai beneficiar todas as partes que usarem o objeto 
+- Extensível: O software não é estático. Ele deve crescer para permanecer útil. 
+- Reutilizável: Podemos usar objetos de um sistema que criamos em outro sistema futuro. 
+- Natural: Mais fácil de entender. Você se preocupa mais na funcionalidade do que nos detalhes de implementação. 
+
+
+Classe Ideal geral de como deverá ser a padronização. Exemplo: Planta de uma casa
+Objeto: A casa física em si, com todas as suas especificações.

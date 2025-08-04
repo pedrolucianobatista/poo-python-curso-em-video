@@ -1,0 +1,7 @@
+Herança: Permite basear uma nova classe na definição de uma outra classe previamente existente. 
+
+A herança será aplicada tanto para as características quanto para os comportamentos
+
+Exemplo para fixar os conceitos: Em uma escola há alunos, professores e outros funcionários. Pensando em que cada um deles pode ter uma classe, como todos são pessoas eles podem ter atributos e métodos em comum. Nesse caso em específico podemos criar uma classe chamada pessoa que conterá tudo de comum entre as outras classes de aluno, professores e funcionários. 
+
+Aparentemente o super é utilizado para informar a classe filho todos os atributos da classe mãe que herdará as paradinhas

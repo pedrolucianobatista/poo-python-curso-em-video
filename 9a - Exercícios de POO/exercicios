@@ -1,0 +1,29 @@
+1 - (C) Uma classe
+
+2 - (A) Natural, confiável, reutilizável, manutenível, extensível e oportuno 
+
+3 - (A) Um objeto é uma construção de software que encapsula estado e comportamento. Uma classe define os atributos e comportamentos compartilhados por um tipo de objeto. Em uma linguagem POO pura, tudo é um objeto, desde os tipos mais básicos. 
+
+4 - (B) - Atributo: Característica de uma classe que é visível. Classe: Define os atributos e comportamentos comuns. Comportamento: Ação executada por um objeto. Domínio: Espaço onde o problema reside. Objeto: Construção de software que encapsula estado e comportamento
+
+5 - (C) - Uma variável interna é um valor mantido dentro do objeto. Atributos são as características de uma classe visíveis externamento. O estado de um objeto é o significado combinado das variáveis internas do objeto. 
+
+6 - (C) - Construtor: Métodos usados para inicializar objetos durante a instanciação. Acessor: Métodos que dão acesso aos dados internos. Mutante: Métodos que permitem que se altere o estado de um objeto. Tipos: Define as diferentes espécies de valores que podem ser usados 
+
+7 - (C) - Três principais pilares POO: Encapsulamento, herança e polimorfismo 
+
+8 - (D) - Classe: Define os atributos e comportamentos compartilhados. Interface: Define o que uma entidade pode fazer com o objeto. Construtor: Utilizado para inicilizar objetos. Objetos: Instanciação de uma classe 
+
+9 - (B) - Público, protegido e privado 
+
+10 - (B) - Protegido
+
+11 - (B) - Encapsulamento 
+
+12 - (C) - Implementação e interface
+
+13 - (D) - Encapsulamento
+
+14 - (D) - Abstração 
+
+15 - (D) - Classes são tipos abstratos de dados. Objetos são instâncias de uma classe. Subclasse é uma classe definida por meio de outra classe 

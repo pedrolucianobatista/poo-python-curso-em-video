@@ -1,0 +1,12 @@
+- Objeto: 
+    Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas características, comportamentos e estado atual. Essas subdivisões são chamadas de métodos, atributos e estudo.
+    Define os atributos e métodos comuns que serão compartilhados por um objeto. 
+
+- Classe: 
+    Basicamente um molde que irá criar a padronização para os objetos que ainda serão criados.
+    É a instância de uma classe.
+
+- Abstração: 
+    A capacidade para identificar os atributos necessários em um determinado tipo de classe. 
+
+- 15:22

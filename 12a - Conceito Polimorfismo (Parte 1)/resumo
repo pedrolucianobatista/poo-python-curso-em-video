@@ -1,0 +1,9 @@
+Poli = muitas 
+Morfo = formas 
+
+Permite que um mesmo nome represente vários comportamentos diferentes. 
+Assinatura do Método: Quantidade e os tipos dos parâmetros 
+
+Tipos mais comuns de polimofirmo: Sobreposição e Sobrecarga 
+
+Polimorfismo de Sobreposição: Acontece quando substituímos um método de uma superclasse na sua subclasse, usando a mesma assinatura. 

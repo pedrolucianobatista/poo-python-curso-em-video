@@ -1,0 +1,14 @@
+Navegação pela herança 
+
+Raiz é a classe principal no projeto e as folhas são as classes herdadas da raiz principal  
+A relação de ancestralidade não está ligada com a raiz e os filhos, mas sim as classes filhas das herdadas pela raiz. Conceito de Ancestral (raiz) e Descendente (herdados pelos filhos diretos da raiz)
+Observação: Quando percorremos a classe de baixo para cima é caracterizado como generalização, e o contrário é especialização 
+
+Tipos de herança: Herança de Implementação e Herança para diferença 
+
+Abstrato e Final 
+
+Classe Abstrata: Não pode ser instanciada. Só pode servir como progenitora. 
+Método Abstrato: Declarado, mas não implementado na progenitora; 
+Classe Final: Não pode ser herdada por outra classe. Obrigatoriamente folha. 
+Método Final: Não pode ser sobrescrito pelas suas sub-classes. Obrigatoriamente herdado. 

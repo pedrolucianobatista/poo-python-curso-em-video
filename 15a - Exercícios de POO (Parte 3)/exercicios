@@ -1,0 +1,19 @@
+1 - C) Polimorfismo: "de inclusão", "paramétrico", "sobrecarga" e "sobreposição" 
+
+2 - A) Quando se utiliza, dentro de uma mesma classe, um mesmo nome de método para muitos métodos diferentes, estamos utilizando o conceito de sobrecarga
+
+3 - C) Classe Abstrata: Nunca será instanciado. Classe Final: Não pode ser superclasse. Método abstrato: Deve ter implementação na subclass. Método final: Não pode ser sobrescrito
+
+4 - D) A especialização permite que você remova da classe filha comportamento e atributos. Os métodos de acesso privado não são herdados pela filha. 
+
+5 - B) O polimorfismo permite que um único nome expresse muitos comportamentos diferentes. Um tipo de polimorfismo é sobrecarga, que permite que possa ser declarado o mesmo método várias vezes, sendo que cada declaração difere simplesmente no(a) número e tipos de argumentos. 
+
+6 - D) Faz parte da assinatura de um método: Seu nome, a quantidade de parãmetros e os tipos dos seus parâmetros. 
+
+7 - C) Método tarefa (x, y: inteiro): inteiro 
+
+8 - A) @Sobrepor Metodo tarefa (x,y: inteiro): Logico
+
+9 - B) Classe D estende B 
+
+10 - D) x('Teste)

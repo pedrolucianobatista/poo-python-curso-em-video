@@ -1,0 +1,19 @@
+1 - B) O compilador fornece um constructor padrão sem parãmetros em qualquer classe que não inclui explicitamente um construtor 
+
+2 - B) Herança: Uma das formas de reutilização de software é a criação de uma classe que absorve membros de outra classe já existente. A nova classe é aprimorada com capacidades novas ou modificadas. 
+
+3 - B) DecimalFormat é descendente de Format 
+
+4 - C) Segundo Deitel (2010), fornecer uma superclasse apropriada a partir da qual outras classes podem herdar e, assim, compartilhar um design comum, é o propósito de uma classe abstrata 
+
+5 - A) Método abstrato: declarado, mas não implementado 
+
+6 - B) A herança permite basear uma nova classe na definição de outra classe. Com o mecanismo de herança, é possível estabelecer relacionamentos "é um" entre classes 
+
+7 - C) final class ClasseA {} - A ClasseA não poderá ter subclasses 
+
+8 - D) Utilizar acesso protected oferece um nível intermediário entre public e private. 
+
+9 - D) -> Ao programar em PHP utilizando-se o paradigma de orientação a objeto, utiliza-se o símbolo -> para poder acessar as funções definidas em uma classe. 
+
+10) - B) Polimorfismo: Segundo Deitel (2010), em POO, o conceito que permite escrever programas que processam objetos que compartilham a mesma superclasse (direta e indiretamente) como se todos fossem objetos dessa superclasse. 
