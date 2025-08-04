@@ -25,5 +25,3 @@ O projeto inclui:
 - Transição de conceitos de Java para Python
 - Aplicação prática de conceitos de OOP
 - Adaptação de sintaxe e estrutura entre linguagens
-
-## 📂 Estrutura do Projeto
