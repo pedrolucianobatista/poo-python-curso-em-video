@@ -1,8 +1,8 @@
-# Programação Orientada a Objetos com Python 🐍
+# Programação Orientada a Objetos com Python 
 
 Este repositório contém minha implementação em **Python** do curso de **Programação Orientada a Objetos com Java**, ministrado pelo professor Gustavo Guanabara no canal [Curso em Vídeo](https://www.youtube.com/c/CursoemVideo).
 
-## 📚 Sobre o Projeto
+## Sobre o Projeto
 
 Durante o curso, o conteúdo foi ensinado utilizando a linguagem **Java**, mas para fins de prática e reforço de conceitos, resolvi aplicar todos os exemplos e exercícios em **Python**, mantendo a estrutura orientada a objetos.
 
@@ -15,12 +15,12 @@ O projeto inclui:
 - Métodos especiais do Python
 - Relacionamento entre classes (composição e agregação)
 
-## 🚀 Tecnologias Usadas
+## Tecnologias Usadas
 
 - Python 3.x
 - Programação Orientada a Objetos (POO)
 
-## 🧠 Aprendizados
+## Aprendizados
 
 - Transição de conceitos de Java para Python
 - Aplicação prática de conceitos de OOP
